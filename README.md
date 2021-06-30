@@ -10,11 +10,11 @@ This 15-day covers all the speed bumps to make  a refined coder in Python progra
 
 Some details about the Bootcamp:
 
-<p>✅Daily Recorded Videos</p>
-<p>✅Study material after every session</p>
-<p>✅Regular quizzes to monitor your progress</p>
-<p>✅Project-based Bootcamp to make you industry ready</p>
-<p>✅Hackathons to help you compete with the best</p>
+<p>✅ Daily Recorded Videos</p>
+<p>✅ Study material after every session</p>
+<p>✅ Regular quizzes to monitor your progress</p>
+<p>✅ Project-based Bootcamp to make you industry ready</p>
+<p>✅ Hackathons to help you compete with the best</p>
 
 <p> DAY 1 Basics and insatllation</p> 
 Video link : https://www.youtube.com/watch?v=vEMTw2QE5j4 
