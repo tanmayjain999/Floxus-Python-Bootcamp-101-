@@ -28,4 +28,4 @@ Video Link : https://youtu.be/X4A5LTxmlgs
 
 <h3> Assignments </h3> 
 <p> Assignment1:https://www.notion.so/Questions-91365d63d4314c4d8e29eeafa0c1bf93 </P>
-[Solution](https://github.com/tanmayjain999/Floxus-Python-Bootcamp-101-/blob/main/Assignement%201%20.ipynb)
+Solution:https://github.com/tanmayjain999/Floxus-Python-Bootcamp-101-/blob/main/Assignement%201%20.ipynb
