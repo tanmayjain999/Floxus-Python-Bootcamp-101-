@@ -22,6 +22,8 @@ Video link : https://www.youtube.com/watch?v=vEMTw2QE5j4
 <p> DAY 2 Operators  </p>
 Video Link : https://www.youtube.com/watch?v=OWJ-yDwBesA
 <p>Notes Day-2: https://www.notion.so/Day-2-8a3a8fb76005481ca89de40316b6379d</p>
-
+<p> DAY 3  Loops and control statments   </p>
+Video Link : https://youtu.be/X4A5LTxmlgs
+<p>Notes Day-3:https://www.notion.so/Python-Bootcamp-Day-3-b2c630816d064b1a910e8b212bb1145a </p>
 
 
