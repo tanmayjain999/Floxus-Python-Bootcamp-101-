@@ -26,6 +26,6 @@ Video Link : https://www.youtube.com/watch?v=OWJ-yDwBesA
 Video Link : https://youtu.be/X4A5LTxmlgs
 <p>Notes Day-3:https://www.notion.so/Python-Bootcamp-Day-3-b2c630816d064b1a910e8b212bb1145a </p>
 
-<h3> Assignments </h3> 
+<h3 align="center" > Assignments </h3> 
 <p> Assignment1:https://www.notion.so/Questions-91365d63d4314c4d8e29eeafa0c1bf93 </P>
 Solution:https://github.com/tanmayjain999/Floxus-Python-Bootcamp-101-/blob/main/Assignement%201%20.ipynb
