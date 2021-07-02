@@ -25,6 +25,9 @@ Video Link : https://www.youtube.com/watch?v=OWJ-yDwBesA
 <p> DAY 3  Loops and control statments   </p>
 Video Link : https://youtu.be/X4A5LTxmlgs
 <p>Notes Day-3:https://www.notion.so/Python-Bootcamp-Day-3-b2c630816d064b1a910e8b212bb1145a </p>
+<p> DAY 3  Strings and Sequences  </p>
+Video Link : https://www.youtube.com/watch?v=hmCIzqmxQMM
+<p>Notes Day-3:https://www.notion.so/Day-4-1c2fff01320e4786befb3f1117f5092c</p>
 
 <h3 align="center" > Assignments </h3> 
 <p> Assignment1:https://www.notion.so/Questions-91365d63d4314c4d8e29eeafa0c1bf93 </P>
