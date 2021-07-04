@@ -16,6 +16,7 @@ Some details about the Bootcamp:
 <p>✅ Project-based Bootcamp to make you industry ready</p>
 <p>✅ Hackathons to help you compete with the best</p>
 
+<h3 align="center" > DAILY CLASSES AND NOTES   </h3> 
 <p> DAY 1 Basics and insatllation</p> 
 Video link : https://www.youtube.com/watch?v=vEMTw2QE5j4 
 <p>Notes Day-1: https://www.notion.so/Day-1-ccd3338e93324c2f94769d5e435386ad</p>
@@ -32,10 +33,10 @@ Video Link : https://www.youtube.com/watch?v=hmCIzqmxQMM
 Video Link : https://www.youtube.com/watch?v=hmCIzqmxQMM
 <p>Notes Day-3:https://www.notion.so/Day-4-1c2fff01320e4786befb3f1117f5092c</p>
 
-<h3 align="center" > Assignments </h3> 
+<h4 align="center" > ASSIGNMENTS  </h4> 
 <p> Assignment1:https://www.notion.so/Questions-91365d63d4314c4d8e29eeafa0c1bf93 </P>
 Solution:https://github.com/tanmayjain999/Floxus-Python-Bootcamp-101-/blob/main/Assignement%201%20.ipynb
 
-<h3 align="center" > Project  </h3> 
-<p> topic : MINI PROJECT - ROCK, PAPER, SCISSORS GAME </P>
+<h5 align="center" > PROJECTS   </h5> 
+<p> TOPIC : MINI PROJECT - ROCK, PAPER, SCISSORS GAME </P>
 project link : 
