@@ -31,7 +31,22 @@ Video Link : https://www.youtube.com/watch?v=hmCIzqmxQMM
 <p>Notes Day-3:https://www.notion.so/Day-4-1c2fff01320e4786befb3f1117f5092c</p>
 <p> DAY 5 Strings and operators  </p>
 Video Link : https://www.youtube.com/watch?v=hmCIzqmxQMM
-<p>Notes Day-3:https://www.notion.so/Day-4-1c2fff01320e4786befb3f1117f5092c</p>
+<p> DAY 6 functions   </p>
+Video Link : https://www.youtube.com/watch?v=G_bUx9jJKkk&list=PLJOROP7Jw1krvfi9AC4oMOLVr4gxFu94o&index=7
+<p> DAY 7 Class and objects    </p>
+Video Link : https://www.youtube.com/watch?v=dm84aqVz2mo&list=PLJOROP7Jw1krvfi9AC4oMOLVr4gxFu94o&index=8
+<p> DAY 8 Class and objects     </p>
+Video Link : https://www.youtube.com/watch?v=rDiDaB46RRU&list=PLJOROP7Jw1krvfi9AC4oMOLVr4gxFu94o&index=9
+<p> DAY 9 modules and packages     </p>
+Video Link :https://www.youtube.com/watch?v=rDiDaB46RRU&list=PLJOROP7Jw1krvfi9AC4oMOLVr4gxFu94o&index=9
+<p> DAY 10 modules and packages     </p>
+Video Link :https://www.youtube.com/watch?v=xZHHpN2Vnck&list=PLJOROP7Jw1krvfi9AC4oMOLVr4gxFu94o&index=10
+<p> DAY 11 Exceptions and Errors  </p>
+Video Link :https://www.youtube.com/watch?v=hDcrkn1nsqM&list=PLJOROP7Jw1krvfi9AC4oMOLVr4gxFu94o&index=11
+<p> DAY 12 file handling     </p>
+Video Link :https://www.youtube.com/watch?v=mF7FUvmfwRw&list=PLJOROP7Jw1krvfi9AC4oMOLVr4gxFu94o&index=12
+<p> DAY 13 database communications and threading    </p>
+Video Link :https://www.youtube.com/watch?v=BXUKHbICpXU&list=PLJOROP7Jw1krvfi9AC4oMOLVr4gxFu94o&index=13
 
 <h4 align="center" > ASSIGNMENTS  </h4> 
 <p> Assignment1:https://www.notion.so/Questions-91365d63d4314c4d8e29eeafa0c1bf93 </P>
@@ -39,4 +54,6 @@ Solution:https://github.com/tanmayjain999/Floxus-Python-Bootcamp-101-/blob/main/
 
 <h5 align="center" > PROJECTS   </h5> 
 <p> TOPIC : MINI PROJECT - ROCK, PAPER, SCISSORS GAME </P>
-project link : 
+project link : https://drive.google.com/file/d/1P-6Wh5uNQBsAFvqaADApdwEsRWt-5Uiz/view?usp=drive_web&authuser=0
+
+
