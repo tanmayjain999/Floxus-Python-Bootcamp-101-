@@ -16,19 +16,15 @@ Some details about the Bootcamp:
 <p>✅ Project-based Bootcamp to make you industry ready</p>
 <p>✅ Hackathons to help you compete with the best</p>
 
-<h3 align="center" > DAILY CLASSES AND NOTES   </h3> 
+<h3 align="center" > DAILY CLASSES    </h3> 
 <p> DAY 1 Basics and insatllation</p> 
 Video link : https://www.youtube.com/watch?v=vEMTw2QE5j4 
-<p>Notes Day-1: https://www.notion.so/Day-1-ccd3338e93324c2f94769d5e435386ad</p>
 <p> DAY 2 Operators  </p>
 Video Link : https://www.youtube.com/watch?v=OWJ-yDwBesA
-<p>Notes Day-2: https://www.notion.so/Day-2-8a3a8fb76005481ca89de40316b6379d</p>
 <p> DAY 3  Loops and control statments   </p>
 Video Link : https://youtu.be/X4A5LTxmlgs
-<p>Notes Day-3:https://www.notion.so/Python-Bootcamp-Day-3-b2c630816d064b1a910e8b212bb1145a </p>
 <p> DAY 4 Strings and Sequences  </p>
 Video Link : https://www.youtube.com/watch?v=hmCIzqmxQMM
-<p>Notes Day-3:https://www.notion.so/Day-4-1c2fff01320e4786befb3f1117f5092c</p>
 <p> DAY 5 Strings and operators  </p>
 Video Link : https://www.youtube.com/watch?v=hmCIzqmxQMM
 <p> DAY 6 functions   </p>
