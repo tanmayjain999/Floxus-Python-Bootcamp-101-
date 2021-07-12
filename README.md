@@ -51,6 +51,8 @@ Video Link :https://www.youtube.com/watch?v=BXUKHbICpXU&list=PLJOROP7Jw1krvfi9AC
 <h4 align="center" > ASSIGNMENTS  </h4> 
 <p> Assignment1:https://www.notion.so/Questions-91365d63d4314c4d8e29eeafa0c1bf93 </P>
 Solution:https://github.com/tanmayjain999/Floxus-Python-Bootcamp-101-/blob/main/Assignement%201%20.ipynb
+<p> MY SQL NOTES </P>
+https://www.notion.so/MySQL-4935304788be48f5bd7f965dba64bdeb 
 
 <h5 align="center" > PROJECTS   </h5> 
 <p> TOPIC : MINI PROJECT - ROCK, PAPER, SCISSORS GAME </P>
