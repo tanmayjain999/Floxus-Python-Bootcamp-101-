@@ -54,4 +54,7 @@ https://www.notion.so/MySQL-4935304788be48f5bd7f965dba64bdeb
 <p> TOPIC : MINI PROJECT - ROCK, PAPER, SCISSORS GAME </P>
 project link : https://drive.google.com/file/d/1P-6Wh5uNQBsAFvqaADApdwEsRWt-5Uiz/view?usp=drive_web&authuser=0
 
+<h5 align="center" >  Floxus 15 - Day Python Bootcamp Coding Round - I  </h5> 
+<p> TOPIC : HACKATHON</P>
+ link : https://www.hackerrank.com/floxus-python-coding-i
 
